@@ -2,11 +2,11 @@
 
 <img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=250 align=right>
 
-*"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio. 🤓"*
-<div>
+*"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
+   
 <a href = "mailto:flavio.c.alves@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+   
 <p align="left" >Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
 
 >Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
@@ -25,19 +25,19 @@
    
 <a href="https://code.visualstudio.com/docs" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="https://code.visualstudio.com/docs" style="margin-right: 20px;"/>
-</a>
+</a>   
 <a href="https://docs.python.org/3/" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="https://docs.python.org/3/" style="margin-right: 20px;"/>
-</a>
+</a>   
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="margin-right: 20px;"/>
-</a>
+</a>   
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style="margin-right: 20px;"/>
-</a>
+</a>   
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style="margin-right: 20px;"/>
-</a>
+</a>   
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="https://learn.microsoft.com/pt-br/sql/sql-server/sql-server-offline-documentation?view=sql-server-ver17&tabs=sqlserver2016" style="margin-right: 20px;"/>
 </a>   
