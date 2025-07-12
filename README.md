@@ -3,10 +3,10 @@
 <img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=250 align=right>
 
 *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio. 🤓"*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/)&nbsp;
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](mailto:flavio.c.alves@hotmail.com)&nbsp;
-
+<div>
+<a href = "mailto:flavio.c.alves@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <p align="left" >Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
 
 >Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
@@ -20,16 +20,28 @@
 >Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos🪄. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
 
 >Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
-
+   
 ## Ferramentas
-
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/docs)&nbsp;
-[![microsoft-office](https://img.shields.io/badge/-microsoft_office-000?style=for-the-badge&logo=microsoft-office&labelColor=30A3DC)](https://learn.microsoft.com/pt-br/microsoft-365/?view=o365-worldwide)&nbsp;
-[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)&nbsp;
-[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://code.visualstudio.com/docs/languages/markdown)&nbsp;
-    
+   
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="https://code.visualstudio.com/docs" style="margin-right: 20px;"/>
+</a>
+<a href="https://docs.python.org/3/" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="https://docs.python.org/3/" style="margin-right: 20px;"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="margin-right: 20px;"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style="margin-right: 20px;"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style="margin-right: 20px;"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="https://learn.microsoft.com/pt-br/sql/sql-server/sql-server-offline-documentation?view=sql-server-ver17&tabs=sqlserver2016" style="margin-right: 20px;"/>
+</a>   
+      
 ## Habilidades
 
 - **Hard Skills:** 
