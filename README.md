@@ -1,57 +1,61 @@
-<h1 align="left"> :libra: Flávio Cantanhede Alves </h1>
+<h1 align="left">Flávio Cantanhede Alves</h1>
 
-<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=250 align=right>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg" alt="Navegando em tempestades" width="250" align="right">
 
-*"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
-   
-<a href = "mailto:flavio.c.alves@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-<p align="left" >Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
+> *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
 
->Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
+<p align="left">
+  <a href="mailto:flavio.c.alves@hotmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
->Se o ditado clássico de que *"duas cabeças pensam melhor do que uma"* já faz parte do seu repertório, então estamos na mesma sintonia. Tenho uma fé inabalável no incrível poder de uma equipe verdadeiramente multidisciplinar, algo que considero como um smoothie repleto de diferentes sabores de competências. A arte de manter todas essas mentes brilhantes em perfeita harmonia é o que me fascina.
+**Tecnólogo em Gestão da Tecnologia da Informação | MBA em Análise de Dados e Business Intelligence (UDF) 👨‍🎓**
 
->Minha curiosidade? Alice ficaria com inveja 🫣. Acompanhar todas as reviravoltas tecnológicas e mudanças de mercado é a minha especialidade. Não só absorvo informações como facilidade, mas também tenho essa mania de filtrar os detalhes mais importantes. *Sherlock* das informações 🧐!
+---
 
->E quando os desafios se tornam mais emocionantes do que um prato de pimenta🌶️ , é aí que minha empolgação realmente ganha vida. Repensar, inovar e conduzir acrobacias com processos são como uma sinfonia que ressoa nos meus ouvidos. Na verdade, eles se assemelham mais a poderosos acordes de um autêntico rock'n'roll 🤘.
+## ⚙️ Perfil Profissional
 
->Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos🪄. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
+Profissional de TI com atuação sólida desde 2007, focado em inovação, eficiência e otimização de processos. Minha missão é transformar dados complexos em insights estratégicos e arquitetar soluções que impulsionem os resultados de negócios. Atuo com forte embasamento em boas práticas de mercado e integração de sistemas, garantindo entregas de alto valor agregado.
 
->Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
-   
-## Ferramentas
-   
-<a href="https://code.visualstudio.com/docs" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="https://code.visualstudio.com/docs" style="margin-right: 20px;"/>
-</a>   
-<a href="https://docs.python.org/3/" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="https://docs.python.org/3/" style="margin-right: 20px;"/>
-</a>   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="margin-right: 20px;"/>
-</a>   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style="margin-right: 20px;"/>
-</a>   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style="margin-right: 20px;"/>
-</a>   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="https://learn.microsoft.com/pt-br/sql/sql-server/sql-server-offline-documentation?view=sql-server-ver17&tabs=sqlserver2016" style="margin-right: 20px;"/>
-</a>   
-      
-## Habilidades
+* **Análise de Dados & BI:** Domínio na extração, tratamento e visualização de dados para suporte à tomada de decisão (Power BI, DAX, Power Query, SQL, Python).
+* **Automação & Integração:** Desenvolvimento de soluções sistêmicas para modernização de fluxos de trabalho e gestão de demandas (Power Automate, Power Apps, Fluig).
+* **Sistemas Corporativos:** Mapeamento técnico, documentação e suporte em arquiteturas complexas de ERP (TOTVS Protheus - módulos de RH, SIGAGPE, SIGAPON).
+* **Governança & Qualidade:** Aplicação rigorosa de frameworks de mercado (ITIL, ITSM, Agile, Scrum, PMBOK, BPMN) e alinhamento com normas internacionais de documentação e segurança (ISO 9001, ISO 27001, ISO 25010).
 
-- **Hard Skills:** 
+---
 
-    - Com expertise na área de Tecnologia da Informação desde 2007, meu enfoque é sólido, fundamentado na adoção de boas práticas, incorporando frameworks de destaque como ITIL, Agile, Scrum, Six Sigma, PMBOK e BABOK. Minha proficiência inclui metodologias como BPMN, em conjunção com conhecimento em Business Intelligence.
-    - Estou em meio a uma emocionante mudança de carreira, avançando de forma constante com meu cronograma semanal de estudos em lógica de programação.
-    - Estou imerso na exploração do desenvolvimento web front-end, adquirindo proficiência em linguagens fundamentais como HTML, CSS e JavaScript. Nos bastidores, estou engajado na elaboração de projetos que envolvem linguagens back-end, como Python e Ruby, direcionando minha atenção especialmente para a análise de dados. Adicionalmente, dedico-me com afinco à leitura aprofundada no abrangente campo da computação em nuvem, buscando compreender suas intricadas nuances e ilimitadas possibilidades.
+## 🛠️ Tecnologias e Ferramentas
 
-- **Soft Skills:** 
-    - Foco e Introspecção em Projetos Complexos: Em projetos complexos, demonstro uma capacidade natural de concentração e introspecção. Minha habilidade de manter o foco me ajuda a mergulhar profundamente em desafios intricados e encontrar soluções eficazes.
-    - Afeição pela Natureza e Discernimento Socia: Nutro um profundo amor por animais e pela natureza, o que me conecta com a simplicidade e beleza do mundo ao nosso redor. Em relação às interações sociais, sou seletivo, preferindo relações significativas e genuínas.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin-right: 15px;"/>
+</div>
 
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviocalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)&nbsp;
+---
+
+## 📊 Habilidades
+
+### Hard Skills
+- **Engenharia e Análise de Dados:** Estruturação de queries em SQL, manipulação de dados com Databricks e criação de dashboards gerenciais avançados.
+- **Desenvolvimento e Lógica:** Transição contínua de carreira com estudos avançados em lógica de programação, desenvolvimento front-end (HTML, CSS, JS) e back-end (Python, Ruby).
+- **Gestão de Serviços de TI:** Estruturação de catálogos de serviços e processos baseados em ITSM e ITIL.
+- **Computação em Nuvem:** Aprofundamento contínuo em arquiteturas cloud e suas integrações.
+
+### Soft Skills
+- **Resolução Analítica:** Capacidade de introspecção e foco absoluto na resolução de problemas sistêmicos e projetos de alta complexidade.
+- **Visão Sistêmica:** Compreensão profunda de como as engrenagens de tecnologia, negócios e processos se conectam.
+- **Trabalho Multidisciplinar:** Facilidade em integrar e atuar em equipes diversas para alcançar objetivos comuns.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviocalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats Flávio Alves" />
+</div>
