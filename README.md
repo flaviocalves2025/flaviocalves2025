@@ -8,7 +8,7 @@
   <a href="mailto:flavio.c.alves@hotmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/flaviocalvesdev" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
