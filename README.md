@@ -1,19 +1,13 @@
-<h1 align="left">Cantanhede</h1>
+# Cantanhede
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg" alt="Navegando em tempestades" width="250" align="right">
+<img src="assets/navegando-tempestades.jpeg" alt="Ilustração de um navio navegando em tempestades" width="250" height="250" style="float: right; margin-left: 15px;">
 
 > *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
 
-<p align="left">
-  <a href="mailto:flavio.c.alves@hotmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/flaviocalvesdev" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:flavio.c.alves@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviocalvesdev)
 
-**Tecnólogo em Gestão da Tecnologia da Informação | MBA em Análise de Dados e Business Intelligence (UDF) 👨‍🎓**
+### Tecnólogo em Gestão da Tecnologia da Informação | MBA em Análise de Dados e Business Intelligence (UDF) 👨‍🎓
 
 ---
 
@@ -30,13 +24,13 @@ Profissional de TI com atuação sólida desde 2007, focado em inovação, efici
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin-right: 15px;"/>
+<div style="display: flex; gap: 15px; justify-content: flex-start;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code"/>
 </div>
 
 ---
@@ -56,6 +50,6 @@ Profissional de TI com atuação sólida desde 2007, focado em inovação, efici
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviocalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats Flávio Alves" />
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviocalvesdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats Flávio Alves" width="495" height="195" />
 </div>
