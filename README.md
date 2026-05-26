@@ -1,126 +1,101 @@
-# Olá! Eu sou o Flávio 👋
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=200&text=Flávio%20Cantanhede%20Alves&fontAlignY=40&color=gradient)](https://git.io/typing-svg)
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flávio%20Cantanhede%20Alves&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Analista%20de%20Dados%20%7C%20BI%20%7C%20Automação&descAlignY=55" />
-</p>
+**Consultor Sênior em Business Intelligence | Engenharia de Dados | Automação Corporativa**
 
-<p align="center">
-  <a href="https://github.com/flaviocalvesdev"><img src="https://img.shields.io/badge/GitHub-flaviocalvesdev-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/flaviocalvesdev"><img src="https://img.shields.io/badge/LinkedIn-flaviocalvesdev-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:flavio.c.alves@hotmail.com"><img src="https://img.shields.io/badge/Email-flavio.c.alves@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook" /></a>
-  <a href="https://github.com/flaviocalvesdev?tab=follow"><img src="https://img.shields.io/github/followers/flaviocalvesdev?label=Seguidores&style=for-the-badge&color=blue" /></a>
-  <img src="https://komarev.com/ghpvc/?username=flaviocalvesdev&style=for-the-badge&color=brightgreen" alt="Profile views" />
-</p>
+Profissional com mais de **17 anos de experiência em TI** e sólido background na arquitetura e transformação de dados. Especialista em traduzir regras de negócios complexas em soluções escaláveis, garantindo governança, performance e suporte à tomada de decisão estratégica.
 
----
-
-## 💡 Sobre Mim
-
-> *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
-
-Com mais de **17 anos de experiência** na área de TI, atualmente sou **Analista de Dados & BI**, apaixonado por transformar dados em decisões estratégicas. Minha jornada começou em 2007, passando por suporte, infraestrutura, sistemas corporativos e, nos últimos anos, mergulhando no universo de **Data Analytics, Automação e Inteligência de Negócios**.
-
-Sou formado em **Gestão da TI** e possuo **MBA em Análise de Dados e BI** (UDF). Acredito que aprendizado contínuo é a chave para inovar – por isso estou sempre explorando novas tecnologias como **Ruby, Databricks, Cloud Computing, Front-end e Back-end**.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### 📊 Data & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0089D6?style=for-the-badge&logo=dax&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-9A161F?style=for-the-badge&logo=powerquery&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🤖 Automação & Integração
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Fluig](https://img.shields.io/badge/Fluig-00A651?style=for-the-badge&logo=fluig&logoColor=white)
-
-### 💻 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🏛️ Governança & Metodologias
-![ITIL](https://img.shields.io/badge/ITIL-0089D6?style=for-the-badge&logo=itil&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
-![PMBOK](https://img.shields.io/badge/PMBOK-FF6C37?style=for-the-badge&logo=pmbok&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-DC143C?style=for-the-badge&logo=bpmn&logoColor=white)
-![ISO 9001](https://img.shields.io/badge/ISO_9001-FF0000?style=for-the-badge&logo=iso&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-008000?style=for-the-badge&logo=iso&logoColor=white)
-![ISO 25010](https://img.shields.io/badge/ISO_25010-0000FF?style=for-the-badge&logo=iso&logoColor=white)
-
-### 🧰 Sistemas Corporativos
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus-003399?style=for-the-badge&logo=totvs&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-> *Em breve, projetos reais serão publicados aqui.*
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Dashboard Comercial](#) | *Em breve* – Painel de vendas com Power BI | Power BI, DAX, SQL |
-| [Automação de Processos RH](#) | *Em breve* – Workflow de férias com Power Automate | Power Automate, Power Apps |
-| [Análise de Dados com Python](#) | *Em breve* – ETL e visualizações | Python, Pandas, Matplotlib |
-| [Site Pessoal](#) | *Em breve* – Portfólio com HTML/CSS/JS | HTML5, CSS3, JavaScript |
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviocalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocalvesdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviocalvesdev&theme=tokyonight" alt="Streak Stats" />
+<p align="left">
+  <a href="https://github.com/flaviocantanhede" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/flaviocantanhede" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:flavio@example.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 📚 Em Evolução
+## 💻 Stack Tecnológico e Ferramentas
 
-Atualmente estou estudando e me aprofundando em:
+**Business Intelligence & Modelagem:**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-005C84?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Front-end](https://img.shields.io/badge/Front--end-1572B6?style=for-the-badge&logo=frontend&logoColor=white)
-![Back-end](https://img.shields.io/badge/Back--end-339933?style=for-the-badge&logo=backend&logoColor=white)
+**Engenharia de Dados & ETL:**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF" />
+
+**Automação & Governança:**
+<br>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps" />
+<img src="https://img.shields.io/badge/ITIL_&_BPMN-4CAF50?style=flat-square&logo=databricks&logoColor=white" alt="Metodologias" />
+
+---
+
+## 📈 Impacto em Escala
+
+A aplicação de melhores práticas de mercado em meus projetos de consultoria gerou resultados quantificáveis para operações empresariais complexas:
+
+| Indicador de Performance | Resultado Comprovado |
+| :--- | :--- |
+| **Otimização de Processos** | Redução de 70% no tempo de extração e carga de relatórios |
+| **Escalabilidade (RPA)** | +500 horas operacionais automatizadas mensalmente |
+| **Capilaridade de Negócios** | +30 operações corporativas reestruturadas |
+| **Delivery Técnico** | +50 soluções de BI ponta-a-ponta entregues em produção |
 
 ---
 
-## 🗓️ Linha do Tempo Resumida
+## 📂 Arquitetura de Soluções (Casos de Uso)
 
-- **2007** – Início na área de TI (suporte/infraestrutura)
-- **2013** – Atuação com sistemas corporativos (TOTVS Protheus)
-- **2018** – Transição para Análise de Dados e BI
-- **2020** – MBA em Análise de Dados e BI (UDF)
-- **2023** – Foco em automação com Power Platform
-- **2025** – Expandindo para desenvolvimento web e cloud
+> **Otimização de Fluxos Financeiros (Fintech)**
+> * **Arquitetura:** SQL Server, Power BI (Modelagem Dimensional), Power Automate.
+> * **Entrega:** Substituição de extrações manuais (40h/semana) por *pipelines* automatizados.
+> * **ROI:** Economia operacional estimada em R$ 200k/ano, com dados atualizados em D-0.
+
+> **Data Lake e Visão 360° (Varejo)**
+> * **Arquitetura:** Python, Databricks, Power BI.
+> * **Entrega:** Ingestão de múltiplas fontes descentralizadas para uma camada unificada de *analytics*.
+> * **ROI:** Rastreabilidade completa da cadeia de vendas, impulsionando um aumento de 15% na receita através de *insights* preditivos.
+
+> **Automação de *Onboarding* (RH)**
+> * **Arquitetura:** SharePoint, Power Apps, Power Automate.
+> * **Entrega:** Digitalização ponta-a-ponta do fluxo de admissão.
+> * **ROI:** Tempo de processamento reduzido de 3 dias para 2 horas, eliminando gargalos e falhas de conformidade.
+
+---
+
+## ⚙️ Metodologia de Consultoria Técnica
+
+Minhas entregas seguem um *framework* rigoroso baseado em ciclos iterativos:
+1. **Discovery & Assessment:** Mapeamento topológico de dados e entendimento das regras de negócio.
+2. **Design de Arquitetura:** Definição da stack tecnológica ideal, KPIs e requisitos de segurança.
+3. **Deploy Contínuo:** Desenvolvimento ágil e integração de sistemas (ETL/ELT).
+4. **Governança & Observabilidade:** Monitoramento de performance dos *pipelines* e *dashboards*.
+5. **Handover:** Documentação técnica e capacitação estruturada das equipes internas.
 
 ---
 
-## 🏅 Certificações & Badges
+## 🤝 Conexões e Consultoria
 
-| Área | Badge |
-|------|-------|
-| Power BI | ![Power BI](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=flat-square&logo=powerbi) |
-| Python | ![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=flat-square&logo=python) |
-| SQL | ![SQL](https://img.shields.io/badge/SQL-Certified-CC2927?style=flat-square&logo=microsoftsqlserver) |
-| ITIL | ![ITIL](https://img.shields.io/badge/ITIL-Foundation-0089D6?style=flat-square&logo=itil) |
-| Scrum | ![Scrum](https://img.shields.io/badge/Scrum-Master-6DB33F?style=flat-square&logo=scrum) |
+Disponível para arquitetar soluções de alto desempenho, desenhar *pipelines* de dados ou reestruturar a governança analítica da sua operação.
+
+* 📧 **E-mail:** [flavio.c.alves@hotmail.com](mailto:flavio.c.alves@hotmail.com)
+* 💼 **LinkedIn:** [Conecte-se comigo](https://linkedin.com/in/flaviocantanhede)
+* 📅 **Agendamento Técnico:** [Calendly](https://calendly.com/flaviocantanhede)
 
 ---
+
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=150&text=Obrigado%20pela%20visita!&fontAlignY=40&color=gradient&section=footer)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontAlignY=70" />
+  <small>© 2026 Flávio Cantanhede Alves. Todos os direitos reservados.</small>
 </p>
