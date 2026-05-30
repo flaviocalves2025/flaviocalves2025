@@ -140,7 +140,7 @@ A aplicação de melhores práticas de mercado em meus projetos de consultoria g
 > **Automação de _Onboarding_ (RH)**
 >
 > - **Arquitetura:** SharePoint, Power Apps, Power Automate.
-> - **Entrega:** Digitalização ponta-a-ponta do fluxo de admissão.
+> - **Entrega:** Digitalização ponta-a-ponta do fluxo de solicitações de serviço e processos operacionais manuais.
 > - **ROI:** Tempo de processamento reduzido de 3 dias para 2 horas, eliminando gargalos e falhas de conformidade.
 
 ---
