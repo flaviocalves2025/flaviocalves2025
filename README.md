@@ -1,4 +1,4 @@
-[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=200&text=Flávio%20Cantanhede%20Alves&fontAlignY=40&color=gradient)](https://git.io/typing-svg)
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=200&text=Cantanhede%20Digital&fontAlignY=40&color=gradient)](https://git.io/typing-svg)
 
 **Consultor em Business Intelligence | Engenharia de Dados | Automação Corporativa**
 
